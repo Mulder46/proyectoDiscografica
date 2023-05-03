@@ -1,1 +1,1 @@
-# proyectoDiscografica
+# discografica
